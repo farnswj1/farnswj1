@@ -74,3 +74,4 @@ I'm a highly passionate and experienced full-stack software engineer from New Je
 ### Miscellaneous
 ![Certbot](https://img.shields.io/badge/Certbot-000000?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
