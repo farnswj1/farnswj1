@@ -14,6 +14,7 @@ I'm a highly passionate and experienced full-stack software engineer from New Je
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web Frameworks
+![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=actix&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-FFFFFF?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
